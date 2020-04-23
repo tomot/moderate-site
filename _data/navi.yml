@@ -1,0 +1,6 @@
+- name: ホーム
+  link: /
+- name: テーマＡ
+  link: /thema-a.html
+- name: テーマＢ
+  link: /thema-b.html
